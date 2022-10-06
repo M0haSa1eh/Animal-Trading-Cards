@@ -1,0 +1,32 @@
+#card {
+width: 300px;
+padding: 10px;
+border: 1px solid gray;
+box-shadow: 5px 5px rgba(119, 101, 101, 0.3);
+}
+
+img {
+width: 300px;
+}
+
+#card-info {
+margin: 0px;
+padding: 10px;
+border: 1px solid gray;
+}
+
+.facts {
+font-style: italic;
+}
+
+.list {
+
+list-style: none;
+
+padding: 0px;
+
+}
+
+.label {
+font-weight: bold;
+}
